@@ -14,7 +14,7 @@ $docker build -t <image_name> .
 
 ## Run the docker container
 ```
-$docker run -d -p 8000:8000 rajeshtezu90/blog_docker tail -f /dev/null
+$docker run -d -p 8000:8000 <image_name> tail -f /dev/null
 ```
 
 Now visit http://localhost:8000 
