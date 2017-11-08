@@ -1,6 +1,11 @@
 # blog_docker
 Docker file for blog website written in django.
 
+## Install docker
+
+https://docs.docker.com/engine/installation/
+
+
 ## Clone the docker files
 ```
 $git clone https://github.com/rajeshtezu90/blog_docker.git
